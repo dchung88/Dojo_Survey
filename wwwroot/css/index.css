@@ -1,0 +1,16 @@
+.container{
+    border: 2px solid black;
+    width: 500px;
+    height: 300px;
+    text-align: center;
+    padding-top: 50px;
+    margin-left: 500px;
+}
+
+input[type=submit]{
+    background-color: blue;
+    color: white;
+    width: 70px;
+    height: 30px;
+    font-size: 15px;
+}
